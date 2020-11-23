@@ -133,9 +133,6 @@ public class St_lab_2 {
             System.out.println("error");
         }
         
-        for (double i = -10; i <= 10; i+=0.01){
-            
-        }
         
         //System.out.println(Math.log(0.5));
     }
